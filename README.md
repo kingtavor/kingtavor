@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @kingtavor
+- 👀 I’m interested in Python and Discord
+- 📫 How to reach me via pm
